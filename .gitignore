@@ -1,0 +1,29 @@
+# Environment
+.env
+venv/
+env/
+ENV/
+*.pyc
+__pycache__/
+
+# Output files
+output/
+*.wav
+*.mp3
+*.json
+*.srt
+
+# Whisper models cache
+~/.cache/whisper/
+~/.cache/huggingface/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Temporary
+*.tmp
+*.log

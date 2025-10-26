@@ -1,0 +1,5 @@
+# Use openai-whisper (standard) for better compatibility with newer Python versions
+# If you have Python 3.11-3.12, you can use faster-whisper instead for better performance
+openai-whisper>=20231117
+anthropic>=0.39.0
+python-dotenv>=1.0.0
