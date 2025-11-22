@@ -580,23 +580,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-## Acknowledgments
-
-- **OpenAI Whisper** for amazing open-source speech recognition
-- **Anthropic Claude** for intelligent summarization capabilities
-- **ffmpeg** for universal media processing
-- **The open-source community** for making tools like this possible
-
----
-
-## Support
-
-- **Issues:** https://github.com/yourusername/shiro/issues
-- **Discussions:** https://github.com/yourusername/shiro/discussions
-- **Email:** your.email@example.com
-
----
-
 **Built with ❤️ by a Ir0nByte tired of missing meeting details.**
 
 If Shiro saves you time, consider:
